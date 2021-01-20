@@ -12,4 +12,4 @@ This primer assumes you have a basic understanding of writing Python programs, i
 imports, loops, and conditionals. You should also be familiar with how to open files on your platform. 
 A basic understanding of object-oriented Python is helpful as well.
 
-https://github.com/zeeking786/FlappyBird_Python/blob/master/FlappyBirdPython-min.gif
+![](https://github.com/zeeking786/FlappyBird_Python/blob/master/FlappyBirdPython-min.gif)
